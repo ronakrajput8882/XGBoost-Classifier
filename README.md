@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=⚡%20XGBoost%20Binary%20Classifier&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=High-Performance%20Classification%20on%201M%20Samples%20|%2097.37%25%20Accuracy&descAlignY=60&descAlign=50" width="100%"/>
-
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
